@@ -8,6 +8,7 @@
 // (This should **really** be your favorite emoji, we plan to use this later in the semester. :))
 char *emoji_favorite() {
   return "😅";
+  return "😆";
 }
 
 
